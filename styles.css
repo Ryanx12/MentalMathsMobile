@@ -46,7 +46,7 @@ h1 {
 .buttons-container {
 
   position: fixed;
-  bottom: -25px; /* Adjust the bottom value as needed to move it down */
+  bottom: -10px; /* Adjust the bottom value as needed to move it down */
   left: 50%;
   transform: translateX(-50%);
   display: grid;
